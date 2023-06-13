@@ -1,14 +1,4 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/GilbertoASJ/Task-list/">
-    <img 
-      src="https://image.flaticon.com/icons/png/512/1187/1187525.png" 
-      alt="Logo Task list - Flaticon"
-      width="100"
-      height="100" 
-    >
-  </a>
+
 
   <h2 align="center">Task List</h2>
 
@@ -95,16 +85,3 @@ $ git clone https://github.com/GilbertoASJ/Task-list.git
 
 # Navegue até Task-list e veja o projeto rodar
 ```
-
-
-<!-- CONTRIBUTING -->
-## Contribuindo
-
-As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são ** muito apreciadas **.
-
-1. Faça um fork do projeto
-2. Crie seu Feature Branch (`git checkout -b feature / AmazingFeature`)
-3. Faça commit de suas alterações (`git commit -m 'Add some AmazingFeature'`)
-4. Envie para o Branch (`git push origin feature / AmazingFeature`)
-5. Abra um pull request
-
